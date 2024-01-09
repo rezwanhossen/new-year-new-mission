@@ -200,37 +200,39 @@ body{
 .discount_img{
     position: relative;
     bottom: 100px;
-     display: grid; 
+    display: grid; 
+    margin-top: -200px;
+    /* margin-bottom: 50px; */
     grid-template-columns:repeat(3,1fr); 
     
 }
 .win-box{
     position: relative;
-    top: 225px;
+    top: 325px;
     
 }
 .fifty_per{
     position: relative;
     right: 590px;
-    top: 270px;
+    top: 400px;
     
 }
 .sopping_per{
     position: relative;
     left: 0px;
-    top: 230px;
+    top: 330px;
     
 }
 
 .red_color img{
     width: 100%;
-    position: relative;
-    bottom: 100px;
+    /* position: relative;
+    bottom: 100px; */
 }
 
 /* ----------------------------- */
 .gift{
-    /* margin-top:100px; */
+    margin-top:100px;
     margin-bottom: 50px;
 }
 
